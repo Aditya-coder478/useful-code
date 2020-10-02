@@ -1,10 +1,10 @@
 # useful-code
 This contains some files which are extremly useful for my projects.
 
-## Added:
+## I will Added:
 + .eslintrc.json
 
 
-## Missing:
+## I will Missing:
 - Custom logger
 
